@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.navbar-nav {
+  text-align: center; 
+  font-size:98%;
+}
+.navbar-brand {
+  font-family: 'Poppins', sans-serif;
+}
+.nav {
+  font-family: 'Poppins', sans-serif;
+  
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Poppins', sans-serif;
+}
+.container-fluid {
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+.tituloysub {
+  text-align: center;
+  font-size: 1000%;
+  margin-top: 12%;
+}
+#titulo {
+  background-color: rgba(201, 0, 0, 0.808); 
+  border-radius: 15px 50px;
+  margin-left: 28%;
+  margin-right: 28%;
+} 
+#subtitulo {
+  background-color: rgba(11, 14, 177, 0.808); 
+  border-radius: 15px 50px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 2%;
+}
+#inicio {padding-top:50px;height:100vh;color: #fff; 
+    background-color:rgba(0,0,0,0.5) ;
+    background-blend-mode: darken;
+    background-image: url(https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/03/08204132/Marcha-8M-4.jpg);
+    background-size: cover;
+    background-position:center ;
+}
+#bases  {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#genero {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+#derechoshumanos {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#latinoamerica {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+#territorio {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#politicaeconomica {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+#alianzas {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#soberania {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+#educacionsexualintegral {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#formacionpolitica {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+#finanzas {padding-top:120px;height:100vh;color: #fff; background-color: #96148b;padding-left: 40px;}
+#contacto {padding-top:120px;height:100vh;color: #fff; background-color: #149664;padding-left: 40px;}
+
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+
+/* data-spy {
+    position: relative;s
+}   */
